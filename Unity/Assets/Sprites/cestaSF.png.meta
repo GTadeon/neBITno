@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 022b66e79e6bb5441aa862c86250a6c4
+timeCreated: 1465477851
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cestaSF_0
+    21300002: cestaSF_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cestaSF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587
+        width: 2669
+        height: 1466
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 764, y: 976.37256}
+        - {x: 762, y: 978.37256}
+        - {x: 760, y: 978.37256}
+        - {x: 757, y: 980.37256}
+        - {x: 754, y: 980.37256}
+        - {x: 751, y: 982.37256}
+        - {x: 746, y: 982.37256}
+        - {x: 745, y: 983.37256}
+        - {x: 700, y: 983.37256}
+        - {x: 699, y: 982.37256}
+        - {x: 694, y: 982.37256}
+        - {x: 691, y: 980.37256}
+        - {x: 688, y: 980.37256}
+        - {x: 685, y: 978.37256}
+        - {x: 683, y: 978.37256}
+        - {x: 681, y: 976.37256}
+        - {x: 6, y: 976.37256}
+        - {x: 3, y: 978.37256}
+        - {x: 0, y: 978.37256}
+        - {x: -2, y: 980.37256}
+        - {x: -5, y: 980.37256}
+        - {x: -8, y: 982.37256}
+        - {x: -13, y: 982.37256}
+        - {x: -14, y: 983.37256}
+        - {x: -58, y: 983.37256}
+        - {x: -60, y: 982.37256}
+        - {x: -65, y: 982.37256}
+        - {x: -69, y: 980.37256}
+        - {x: -72, y: 980.37256}
+        - {x: -74, y: 978.37256}
+        - {x: -77, y: 978.37256}
+        - {x: -79, y: 976.37256}
+        - {x: -656, y: 976.37256}
+        - {x: -664, y: 980.37256}
+        - {x: -668, y: 980.37256}
+        - {x: -671, y: 982.37256}
+        - {x: -677, y: 982.37256}
+        - {x: -678, y: 983.37256}
+        - {x: -716, y: 983.37256}
+        - {x: -717, y: 982.37256}
+        - {x: -723, y: 982.37256}
+        - {x: -727, y: 980.37256}
+        - {x: -730, y: 980.37256}
+        - {x: -733, y: 978.37256}
+        - {x: -736, y: 978.37256}
+        - {x: -738, y: 976.37256}
+        - {x: -894, y: 976.37256}
+        - {x: -894, y: 0.3725586}
+        - {x: 893, y: 0.3725586}
+        - {x: 894, y: 1.3725586}
+        - {x: 894, y: 974.37256}
+        - {x: 892, y: 976.37256}
+    - name: cestaSF_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 2669
+        height: 1465
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 761.37683, y: 978.948}
+        - {x: 758.37683, y: 978.948}
+        - {x: 754.37683, y: 980.948}
+        - {x: 750.37683, y: 980.948}
+        - {x: 748.37683, y: 981.948}
+        - {x: 702.37683, y: 981.948}
+        - {x: 700.37683, y: 980.948}
+        - {x: 695.37683, y: 980.948}
+        - {x: 692.37683, y: 978.948}
+        - {x: 689.37683, y: 978.948}
+        - {x: 682.37683, y: 974.948}
+        - {x: 8.376831, y: 974.948}
+        - {x: 2.376831, y: 978.948}
+        - {x: -0.62316895, y: 978.948}
+        - {x: -4.623169, y: 980.948}
+        - {x: -9.623169, y: 980.948}
+        - {x: -11.623169, y: 981.948}
+        - {x: -58.62317, y: 981.948}
+        - {x: -59.62317, y: 980.948}
+        - {x: -63.62317, y: 980.948}
+        - {x: -67.62317, y: 978.948}
+        - {x: -70.62317, y: 978.948}
+        - {x: -76.62317, y: 974.948}
+        - {x: -654.62317, y: 974.948}
+        - {x: -656.62317, y: 976.948}
+        - {x: -658.62317, y: 976.948}
+        - {x: -660.62317, y: 978.948}
+        - {x: -664.62317, y: 978.948}
+        - {x: -667.62317, y: 980.948}
+        - {x: -672.62317, y: 980.948}
+        - {x: -673.62317, y: 981.948}
+        - {x: -715.62317, y: 981.948}
+        - {x: -716.62317, y: 980.948}
+        - {x: -721.62317, y: 980.948}
+        - {x: -725.62317, y: 978.948}
+        - {x: -728.62317, y: 978.948}
+        - {x: -730.62317, y: 976.948}
+        - {x: -733.62317, y: 976.948}
+        - {x: -735.62317, y: 974.948}
+        - {x: -892.62317, y: 974.948}
+        - {x: -893.62317, y: 973.948}
+        - {x: -893.62317, y: 0.9480047}
+        - {x: -892.62317, y: -0.051995277}
+        - {x: 894.37683, y: -0.051995277}
+        - {x: 894.37683, y: 974.948}
+        - {x: 767.37683, y: 974.948}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
